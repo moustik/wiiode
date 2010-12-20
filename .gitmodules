@@ -1,0 +1,3 @@
+[submodule "pyode"]
+	path = pyode
+	url = git://pyode.git.sourceforge.net/gitroot/pyode/pyode
