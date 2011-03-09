@@ -1,0 +1,24 @@
+A short script making use of the wiimote through pywiiuse
+
+Init
+----
+
+Make sure you have a ipythonrc-project file in your ~/.ipython directory
+
+    include ipythonrc
+
+    execfile localipythonrc.py
+
+
+Retrieve or update pywiiuse sources.
+
+    git submodule init
+    git submodule sync
+
+
+Execution
+---------
+
+run
+
+ $ ipython -p project example.py
